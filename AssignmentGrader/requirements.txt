@@ -1,0 +1,8 @@
+groq
+python-dotenv>=0.21.0
+streamlit>=1.22.0
+requests>=2.28.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.2
+python-docx>=0.8.11
+pyMuPDF>=1.21.0

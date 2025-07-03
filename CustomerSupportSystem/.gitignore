@@ -137,4 +137,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+#Googele service credentials
+google_creds.json
+
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Python

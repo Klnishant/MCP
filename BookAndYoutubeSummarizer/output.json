@@ -1,0 +1,46 @@
+{
+  "Introduction": {
+    "summary": {
+      "id": "chatcmpl-BpAri4dTxpco1I3yX829BO1cDIgfY",
+      "object": "chat.completion",
+      "created": 1751536194,
+      "model": "gpt-4.1-nano",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "- The \"Introduction\" emphasizes the importance of constructive feedback for growth in personal and professional contexts.  \n- It highlights challenges people face in providing honest feedback due to fear of offending others or facing repercussions.  \n- To address this, anonymous feedback tools like TrueFeedback create a safe environment for open expression.  \n- TrueFeedback is a web application built with modern technologies (Next.js, MongoDB, Nodemailer) that allows users to share and receive feedback anonymously.  \n- The platform is designed to be secure, user-friendly, and scalable, suitable for educational and professional settings.  \n- A key feature is integration with OpenAI’s ChatGPT, which offers AI-generated suggestions to improve communication.  \n- Overall, the goal is to foster honest, constructive, and non-judgmental feedback to support individual growth."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 590,
+        "completion_tokens": 163,
+        "total_tokens": 753
+      }
+    },
+    "questions": {
+      "id": "chatcmpl-BpArmTpY0RHwN0DSjhl4YolVkOSxX",
+      "object": "chat.completion",
+      "created": 1751536198,
+      "model": "gpt-4.1-nano",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "Certainly! Please provide the chapter title and the chapter content so I can generate the questions accordingly."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 74,
+        "completion_tokens": 19,
+        "total_tokens": 93
+      }
+    }
+  }
+}
